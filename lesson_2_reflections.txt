@@ -5,4 +5,6 @@
 ---> Staging area is just a space to add all the files that needs to be committed. Working directory contains all the master files 
     and a repository contains all the commits ever made in the working directory.
 
-3. 
+3. How can you use the staging area to make sure you have one commit per logical change?
+---> Staging area helps to check the changes made to the file by comparing it with the most recent commit in the repository.
+
