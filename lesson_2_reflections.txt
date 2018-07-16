@@ -19,5 +19,6 @@
 ---> "git merge branch1 branch2" helps to merge the contents or the changes from branch2 to branch1(master).
      Diagram representation of the git logs helps to look at the commits made before and after a brahch is made form the master.
      This help to find the changes  needed in the code.
-
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+---> Auto merging is good and timw saving if there are no conflicts, otherwise conflicts have to corrected maually and then merged.
 
