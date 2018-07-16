@@ -15,10 +15,14 @@
 5. How do the diagrams help you visualize the branch structure?
 ---> It clearly helps  to understand the path of the branch and brach commits.
 
+<<<<<<< HEAD
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 ---> "git merge branch1 branch2" helps to merge the contents or the changes from branch2 to branch1(master).
      Diagram representation of the git logs helps to look at the commits made before and after a brahch is made form the master.
      This help to find the changes  needed in the code.
+     
 7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 ---> Auto merging is good and timw saving if there are no conflicts, otherwise conflicts have to corrected maually and then merged.
+
+THIS IS A NEW LINE, NOT SURE ABOUT THIS ONE.  
 
