@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local ?
+---> Remote repositories are used to push and pull the info to GitHib.  Updating every commit that made in local leads to an unfinished
+     work ending up public. Only info pushed into remote repository ends up on GitHub and any other commits not pushed can be accessed 
+     form local directory.
