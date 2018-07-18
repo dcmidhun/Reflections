@@ -1,4 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local ?
----> Remote repositories are used to push and pull the info to GitHib.  Updating every commit that made in local leads to an unfinished
-     work ending up public. Only info pushed into remote repository ends up on GitHub and any other commits not pushed can be accessed 
-     form local directory.
+---> Remote repositories are used to push and pull the info to GitHib.  Updating every commit that made in local directory to GitHub            leads to an unfinished work ending up public. Remote repository helps to push or pull the commits manually when we intend to do so.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+---> Setting up an auto update keeps the GitHub up-to-date but the updates might not be  meaningfull as some unfinished work might be
+     published on GitHub.
