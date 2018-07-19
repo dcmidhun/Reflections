@@ -4,3 +4,7 @@ When would you want to use a remote repository rather than keeping all your work
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 ---> Setting up an auto update keeps the GitHub up-to-date but the updates might not be  meaningfull as some unfinished work might be
      published on GitHub.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+---> 'frok' is used to clone repositories form GitHub to GitHub, 'clone' is used to clone a repository from github to local directory and
+     'branch' is used to create a separate workflow of commits different from the master branch. 
